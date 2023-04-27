@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "string": "nodemon ./js/string1.js",
     "number": "nodemon ./js/number.js",
     "dev": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
