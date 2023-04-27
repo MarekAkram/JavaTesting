@@ -1,0 +1,17 @@
+{
+  "name": "javatesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testing": "nodemon ./jstest/testing.js.",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://github.com/MarekAkram",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
